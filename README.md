@@ -29,7 +29,7 @@ The insights are visualized through an **interactive Power BI dashboard**.
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="YOUR_IMAGE_PATH_HERE" width="90%" />
+  <img src="https://github.com/gulshankryadav/FUTURE_DS_01/blob/39b27edbfa5544783a9723ccd8daf30d944354b6/Screenshot%202025-11-30%20080024.png" width="90%" />
 </p>
 
 > Replace `YOUR_IMAGE_PATH_HERE` with your Power BI screenshot link  
